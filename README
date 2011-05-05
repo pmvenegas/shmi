@@ -1,0 +1,16 @@
+shmi - ssh, more info
+
+shmi is a wrapper for ssh and screen which maintains a side channel
+and polls for information about your login and the remote machine,
+shows it as a screen title or status on your local screen
+window.
+
+For convenience, key-based (passwordless) ssh is assumed.
+
+Customize to fit.
+
+Written by Paolo Venegas - pvenegas@gmail.com
+
+TODO
+  - reset original title and hstatus cleanly
+  - look into integration with byobu or similar
