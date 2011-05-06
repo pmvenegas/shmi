@@ -14,3 +14,6 @@ Written by Paolo Venegas - pvenegas@gmail.com
 TODO
   - reset original title and hstatus cleanly
   - look into integration with byobu or similar
+
+Warning: shmi is a bad hack I wrote for my own use, but some guys
+thought it was useful so I put it up. Mileage may vary.
